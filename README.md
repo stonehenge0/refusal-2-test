@@ -1,19 +1,17 @@
 # BabelSteering
 
-**Submission ID:** 1570
-**Link:** https://openreview.net/forum?id=SMk5KJ6l8C#discussion
-**Date:** 18.09.2026
-**Venue:** EACL2027 Athens
+**Submission ID:** 1570  
+**Link:** https://openreview.net/forum?id=SMk5KJ6l8C#discussion  
+**Date:** 18.09.2026  
+**Venue:** EACL2027 Athens  
 
-This repository contains the code and data used for the experiments in our paper *"BabelSteering: Multilingual Safety Alignment via English Steering Vectors"*.
-
-To reproduce our experiments, run the setup script and reproduce our results as described below.
+This repository contains the code and data used for the experiments in our paper *"BabelSteering: Multilingual Safety Alignment via English Steering Vectors"*. To reproduce our experiments, run the setup script and reproduce our results as described below.
 
 ## Setup
 Run the setup script
 
 ```bash
-git clone TODO
+git clone [REDACTED]/EACL26-anonymized-multiling-refusal.git
 cd refusal_direction
 source setup.sh
 ```
