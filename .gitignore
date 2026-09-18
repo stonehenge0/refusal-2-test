@@ -1,0 +1,16 @@
+.DS_Store
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+runs/
+output/ # The reason we exclude this is because the outputs are very large, often too large to push to Git.  
+figs/
+wandb/
+.ipynb_checkpoints/
+*.out
+*.err
+lm-evaluation-harness/ # Also too large to push. Gets installed over setup.
